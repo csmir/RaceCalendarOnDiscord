@@ -5,11 +5,11 @@
 A worldwide motorsport event calendar on Discord. Supports search by circuit, series and period. 
 Stay up to date, learn about different motorsport series and figure out where to watch!
 
-Race Calendar is maintained with love for motorsport. 
+> This service is developed and maintained with love for motorsport. 
 
-**The information you see is curated using the calendars from source websites listed within the application. Race Calendar can make mistakes. Changes in dates or race cancellations might not update immediately.**
+### 🏎️ [Start using Race Calendar!](https://discord.com/oauth2/authorize?client_id=1522517803897196544)
 
-> Race Calendar is not associated or affiliated with official sources of motorsport series such as FIA or FIM. 
-> Race Calendar does not ask money for its services, offering it for free to everyone. If you wish to support the initiative, consider sponsoring the developer through GitHub.
+*Are you here because you want to develop for Race Calendar, make suggestions or notify us of an issue? Visit [NET-work](https://discord.gg/UTgFuJ3eW6)*.
 
-### [Start using Race Calendar!](https://discord.com/oauth2/authorize?client_id=1522517803897196544)
+- [Terms of Service](https://github.com/csmir/RaceCalendarOnDiscord/tree/master/TERMS.md)
+- [Privacy Statement](https://github.com/csmir/RaceCalendarOnDiscord/tree/master/PRIVACY.md)
